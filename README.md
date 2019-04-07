@@ -30,9 +30,11 @@ All functions in an app:
 
 ### 1) Install dependencies
 
+Note that the webpack version must be version 1.x
+
 ```sh
 npm install
-sudo npm install -g webpack
+sudo npm install -g webpack@1.14.0
 ```
 
 ### 2) Start Functions API (see [Fn on GitHub](http://github.com/fnproject/fn))
